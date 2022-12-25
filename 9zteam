@@ -1,0 +1,71 @@
+/**
+* @name 9z Team 
+* @version 1.0.0
+* @description Theme Made by 9zTeam Fans for 9zTeam Fans
+* @author Konra#3620
+* @invite Frankkaster
+* @Source https://steamcommunity.com/id/Konrita/
+* @website https://twitter.com/9zTeam
+*/
+@import url("https://github.com/0mniscient/Discord-Themes");
+:root {
+--main-theme-color: #C94DFFFF;
+--theme-transparency: #050505BC;
+--theme-background-image: url('https://locosxlosjuegos.com/wp-content/uploads/2020/04/9z_neon_3k_by_dzzf_dcuu3js-fullview.jpg');
+--home-icon-image: url('https://pbs.twimg.com/profile_images/1417372186332049436/kdbA1yaI_400x400.jpg');
+--home-icon-image-zoom: 100%;
+--home-icon-image-position: center;
+--server-listing-width: 72px;
+--font-size: 80%;
+--mention-color: #ADADAD24;
+--mention-sider: #FA951EFF;
+--mention-hover-color: #902346FF;
+--category-hover-color: #45B963B7;
+--unread-server-animation: none;
+--video-screen-button-background-color: #C8C8C433;
+--video-screen-button-foreground-color: #ffffffff;
+--video-screen-button-background-hovor-color: #C8C8C866;
+--video-screen-button-foreground-hovor-color: #F5B9FFFF;
+--member-listing-role-color: #FFFFFFFF;
+--small-user-popout-background-image: url('https://i.imgur.com/j1Z6HVc.jpg');
+--small-user-popout-background-transparency: #00000099;
+--small-user-popout-background-image-position: center;
+--big-user-popout-background-image: url('https://i.imgur.com/j1Z6HVc.jpg');
+--big-user-popout-background-transparency: #00000099;
+--big-user-popout-background-image-position: center;
+--code-markup-background-color: #00000099;
+--code-markup-border: 1px solid transparent;
+--message-box-transparency: #FC8CC20D;
+--embed-background-transparency: #6567673B;
+--message-hover-buttons-background: #8151FA5D;
+--context-menu-transparency: #0f0f0fcc;
+--add-discover-icon-transparency: #c8c8c826;
+--add-discover-icon-color: #43b581;
+--channel-limit-count-color: #43b581;
+--channel-limit-background-left: #c8c8c81a;
+--channel-limit-background-right: #c8c8c833;
+--scrollbar-color: #C8C8C836;
+--unread-message-divider-color: #f04747;
+--unread-message-divider-font-color: #ffffff;
+--new-messages-bar-background-color: #7289da;
+--new-messages-bar-font-color: #ffffff;
+--emoji-menu-background-color: #812690FF;
+--emoji-menu-sider-background-color: #ffffff;
+--emoji-menu-server-header-background-color: #ffffff;
+--emoji-menu-bottom-bar-background-color: #ffffff;
+--emoji-menu-search-bar-background-color: #ffffff;
+--message-search-menu-background-color: #000000cc;
+--message-search-container-background-color: #00000099;
+--message-search-result-background-color: #c8c8c80d;
+--text-voice-channel-color: #FFF2F2FF;
+--text-voice-channel-hover-color: #8DF56AFF;
+--text-voice-channel-selected-text-color: #FF8BD5FF;
+--unread-text-channel-color: #E3A2FFFF;
+--unread-text-channel-bubble-color: #ffffff;
+--folder-background-color: #CE4DA7CE;
+--expanded-folder-background-color: #00000000;
+--reaction-emoji-background-color: #00000000;
+--reaction-emoji-border-color: 1px solid transparent;
+--reaction-emoji-hover-background-color: #ffffff1a;
+--reaction-emoji-hover-border-color: #ffffff33;
+}
